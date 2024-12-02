@@ -1,0 +1,2 @@
+INSERT INTO CUSTOMER (id, name, surname, creditLimit, usedCreditLimit) VALUES (100, 'Dwight', 'Schrute', 10000, 0);
+INSERT INTO CUSTOMER (id, name, surname, creditLimit, usedCreditLimit) VALUES (200, 'Michael', 'Scott', 20000, 1000);
